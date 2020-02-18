@@ -1,0 +1,57 @@
+1.RPA - Republika Po³udniowej Afryki > Johannesburg > Rand > https://www.google.com/maps?ll=-26.036012,28.079722&z=10&t=m&hl=pl&gl=US&mapclient=apiv3
+2.Egipt > Kair > Funt egipski > https://www.google.com/maps?ll=30.1375,31.406944&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+3.Egipt > Aleksandria > Funt egipski > https://www.google.com/maps?ll=8.977778,38.798056&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+4.Etiopia > Addis Abeba > Birr > https://www.google.com/maps?ll=31.042057,29.816111&z=10&t=m&hl=pl&gl=US&mapclient=apiv3
+5.Maroko > Marakesz Menara > Dirham marokañski > https://www.google.com/maps?ll=31.608333,-8.038333&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+6.Egipt > Hurghada > Funt egipski > https://www.google.com/maps?ll=27.178759,33.801069&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+7.Egipt > Szarm el-Szej > Funt egipski > https://www.google.com/maps?ll=27.977222,34.395&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+8.Maroko > Agadir > Dirham marokañski > https://www.google.com/maps?ll=30.325619,-9.412708&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+9.Seszele > Praslin Island > Rupia seszelska > https://www.google.com/maps?ll=-4.319167,55.692778&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+10.Seszele > Mahe Island > Rupia seszelska > https://www.google.com/maps?ll=-4.672222,55.5225&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+11.Egipt > Luksor > Funt egipski > https://www.google.com/maps?ll=25.673056,32.7075&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+12.Mali > Bamako > Frank CFA (Afryka Zachodnia) > https://www.google.com/maps?ll=12.533611,-7.933333&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+13.Mauritius >  Mauritius > Rupia maurytyjska > https://www.google.com/maps?ll=-20.4275,57.676389&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+14.Mozambik >  Maputo > Metical > https://www.google.com/maps?ll=-25.916667,32.566667&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+15.Namibia >  Windhuk > Dolar namibijski > https://www.google.com/maps?ll=-22.550016,17.275&z=10&t=m&hl=pl&gl=US&mapclient=apiv3
+16.Niger > Niamey > Naira > https://www.google.com/maps?ll=13.483333,2.170833&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+17.Reunion > Saint-Denis > Euro > https://www.google.com/maps?ll=-20.877222,55.521389&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+18.Tanzania > Kilimand¿aro > Szyling tanzañski > https://www.google.com/maps?ll=-3.433333,37.066667&z=8&t=m&hl=pl&gl=US&mapclient=apiv3
+19.Liberia > Monrowia > Dolar liberyjski > https://www.google.com/maps?ll=6.264584,-10.558611&z=10&t=m&hl=pl&gl=US&mapclient=apiv3
+20.Ghana > Tamale > Cedi > https://www.google.com/maps/@9.557222,-0.863333,8z?hl=pl
+
+
+A B C D E F G H I J K L M N O P Q R S T U W X Y Z
+
+EGIPT		ALEKSANDIRA	
+		HURGADA
+		KAIR
+		LUKSOR
+		SZARM EL-SZEJ
+
+ETIOPIA		ADDIS ABEBA
+
+GHANA		TAMALE
+
+LIBERIA		MONORWIA	
+
+MALI		BAMAKO
+
+MAROKO		AGADIR
+		MARAKESZ MENARA
+
+MAURITUS	MAURITIUS
+
+MOZAMBIK	MAPUTO
+
+NAMIBIA		WIDHUK
+
+NIGER		NIAMEY
+
+REUNION		SAINT-DENIS
+
+RPA		JOHANNESBURG
+
+SESZELE		MAHE ISLAND
+		PRASLIN ISLAND
+
+TANZANIA	KILIMAND¯ARO

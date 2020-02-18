@@ -1,0 +1,138 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+    <title>AFRICARS</title>
+</head>
+<body>
+    <header>
+        <ul class="nav nav-tabs justify-content-center">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">MAIN</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link align-self-center" href="rent-a-car.html">RENT A CAR</a>
+            </li>
+            <li class="nav-item">
+                <a id="active-tab" class="nav-link" href="contact.html">CONTACT</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">AFFILIATES</a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">UGANDA</a>
+                    <a class="dropdown-item" href="#">ZIMBABWE</a>
+                    <a class="dropdown-item" href="#">KONGO</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="navBar" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">LANGUAGES</a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">UGANDA</a>
+                    <a class="dropdown-item" href="#">ZIMBABWE</a>
+                    <a class="dropdown-item" href="#">KONGO</a>
+                </div>
+            </li>
+        </ul>
+    </header>
+    <p>CONTACT</p>
+    <form action="input.php" id="formularz" method="post"> <!--action="input.php" to jest polaczenie z plikiem phpa -->
+        <table>
+            <tr>
+                <td>*Name:</td>
+                <td><input type="text" id="Imie" required name="Imie"></td>
+            </tr>
+            <tr>
+                <td>*Surname:</td>
+                <td><input type="text" id="Nazwisko" required name="Nazwisko"></td>
+             </tr>
+             <tr>
+                <td>*Date of birth:</td>
+                <td><input type="date" id="Wiek" required name="Wiek"></td>
+             </tr>
+             <tr>
+                <td>Kraj pochodzenia:</td>
+                <td><input type="text" id="kraj"  name="kraj"></td>
+             </tr>
+             <tr>
+                <td>*E-mail:</td>
+                <td><input type="email" id="email" required name="email"></td>
+             </tr>
+             <tr>
+                <td>*Phone number:</td>
+                <td><input type="email" id="email" required name="email"></td>
+             </tr>
+             <tr>
+                <td>*Nationality:</td>
+                <td><input type="email" id="email" required name="email"></td>
+             </tr>
+             <tr>
+                <td>*ID-Number:</td>
+                <td><input type="email" id="email" required name="email"></td>
+             </tr>
+             <tr>
+                <td>*Driving license number:</td>
+                <td><input type="text" id="cardnumber" required name="cardnumber"></td>
+             </tr>
+             <tr>
+                <td>*Credit card number:</td>
+                <td><input type="date" id="prawojazdy" required name="prawojazdy"></td>
+             </tr>
+             <tr>
+                <td>*Date of rental:</td>
+                <td><input type="text" id="telefon" required name="telefon"></td>
+             </tr>
+             <tr>
+                <td>Date of return:</td>
+                <td><input type="text" id="adres" name="adres"></td>
+             </tr>
+             <tr>
+                <td>Place of rental:</td>
+                <td>
+                 <select>
+                    <option>EGYPT>ALEXANDRIA</option>
+                    <option>EGYPT>HURGAD</option>
+                    <option>EGYPT>CAIRO</option>
+                    <option>EGYPT>LUXOR</option>
+                    <option>ETIOPIA>ADDIS ABEBA</option>
+                    <option>GHANA>TAMALE</option>
+                    <option>LIBERIA>MONORWIA</option>
+                    <option>MALI>BAMAKO</option>
+                    <option>MAROCO>AGADIR</option>
+                    <option>MAROCO>MARAKESH MENARA</option>
+                    <option>MAURITUS>MAURITUS</option>
+                    <option>MOZAMBIQUE>MAPUTO</option>
+                    <option>NAMIBIA>WIDHUK</option>
+                    <option>NIGER>NIAMEY</option>
+                    <option>REUNION>SAINT-DENIS</option>
+                    <option>SOUTH AFRICA REPUBLIC>JOHANNESBURG</option>
+                    <option>SEYCHELLES>MAHE ISLAND</option>
+                    <option>SEYCHELLES>PRASIN ISLNAD</option>
+                    <option>TANZANIA>KILIMAJARO</option>
+                    <option>EGYPT>SHARM EL SHEIK</option>
+                 </select>
+                </td>
+             </tr>
+             <div class="form-check">
+                <input type="checkbox" class="form-check-input" id="termsCheck">
+                <label class="form-check-label" for="termsCheck">I agree to terms and conditions</label>
+            </div>
+             <tr>
+                     <td><input type="submit" name="zapytanie" value="RENT" /></td>
+             </tr>
+ 
+        </table> 
+     </form>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+</body>
+</html>

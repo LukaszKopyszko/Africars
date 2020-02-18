@@ -1,0 +1,3 @@
+Zielony - C-90 M-30 Y-95 K-30
+Czerwony - C-0 M-90 Y-85 K-0
+Szary - K-10
